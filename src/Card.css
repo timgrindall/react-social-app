@@ -1,0 +1,95 @@
+.credit {
+  font-size: 14px;
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.card {
+  width: auto;
+  height: auto;  /* will set to auto */
+  border-bottom: 1px solid #e6ecf0;
+  /*border: 1px solid black;*/
+}
+
+.left-col {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.profile-picture {
+  width: 48px;
+  height: 48px;
+  margin: 10px;
+  background-color: lightgrey;
+  background-image: url("/images/profile_picture.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+}
+
+.right-col {
+  width: 500px;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  /*background-color: lightgrey;*/
+  display: inline-block;
+}
+
+.user-data {
+  font-size: 14px;
+}
+
+.display-name {
+  display: inline-block;
+  font-weight: bold;
+}
+
+.username {
+  display: inline-block;
+  padding-left: 5px;
+  color: grey;
+}
+
+.post-date {
+  display: inline-block;
+  padding-left: 5px;
+}
+
+.post-text {
+  font-size: 14px;
+}
+
+.buttons {
+  margin-top: 20px;
+  height: 20px;
+  /*background-color: lightgrey;*/
+}
+
+img.button-icon {
+  height: 20px;
+  width: 20px;
+}
+
+img.reply-icon {
+  height: 16px;
+  width: 16px;
+  margin-bottom: 2px;
+}
+
+img.heart-icon {
+  height: 16px;
+  width: 16px;
+  margin-bottom: 2px;
+}
+
+.numbers {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 20px;
+  font-size: 14px;
+  /*color: #657786;*/
+}

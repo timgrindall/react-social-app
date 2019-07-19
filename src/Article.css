@@ -1,0 +1,33 @@
+.article-card {
+	/*background-color: lightgrey;*/
+	font-size: 14px;
+	border-radius: 0.85714em;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #E1E8ED;
+	overflow: hidden;
+	margin-top: 10px;
+}
+
+.card-link {
+	text-decoration: none;
+	color: inherit;
+}
+
+.article-image {
+}
+
+.image {
+	width: 100%;
+	height: 100%;
+}
+
+.article-synopsis {
+	/*background-color: lightblue;*/
+	padding: 10px;
+}
+
+.article-title {
+	font-weight: bold;
+	margin-bottom: 10px;
+}
